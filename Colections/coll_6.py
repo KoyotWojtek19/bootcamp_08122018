@@ -9,5 +9,3 @@ for indeks in range(len(liczby)):
         indeks_max = indeks
 
 liczby[indeks_max], liczby[indeks_min] = liczby[indeks_min], liczby[indeks_max]
-
-
